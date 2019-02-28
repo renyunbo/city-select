@@ -1,0 +1,2 @@
+<!--pages/container/area/area.wxml-->
+<area-select bind:ideChoice="_ideChoice"> </area-select>
